@@ -1,0 +1,46 @@
+_repo: Our-Standard-BearerThe-Life-of-General-Uysses-S.-Grant_45118
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Kilburn, Samuel Smith
+    alias: Kilburn, S. S. (Samuel Smith)
+    gutenberg_agent_id: '25332'
+    url: http://www.gutenberg.org/2009/agents/25332
+  illustrator:
+    agent_name: Nast, Thomas
+    alias: Nast, Thos. (Thomas)
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '7238'
+    url: http://www.gutenberg.org/2009/agents/7238
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Nast
+covers:
+- cover_type: archival
+  image_path: 45118-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2014-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45118'
+  lccn: '10032784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E660'
+- !lcsh 'Generals -- United States -- Biography -- Juvenile literature'
+- !lcsh 'Grant, Ulysses S. (Ulysses Simpson), 1822-1885 -- Juvenile literature'
+title: Our Standard-Bearer; Or, The Life of General Uysses S. Grant
+url: http://www.gutenberg.org/ebooks/45118
